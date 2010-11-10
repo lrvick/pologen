@@ -1,0 +1,26 @@
+	pologen <http://github.com/lrvick/pologen>
+
+WHAT IS POLOGEN?
+
+	That awesome effect you have wanted on your website for so long.
+	Feed pologen a few sets of folders full of images, and it will
+  generate a nice collage of polorids for you using imagick.
+
+CURRENT FEATURES:
+
+ * Configurable coordinates and offsets.
+
+ * Drop shadow and corner curl
+
+ * Supports randomly pulling images from any number of folders
+
+ * Ensures not to pull more than one photo from each category.
+
+ * Outputs as flat jpg, or as a png with alpha transparency
+
+NOTES
+
+	You will need imagick installed to use this. Well worth it and well worth
+	taking the time to experiment with this so you can learn it.
+
+	imagick is magic
